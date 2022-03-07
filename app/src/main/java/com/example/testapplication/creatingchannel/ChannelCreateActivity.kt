@@ -39,7 +39,7 @@ class ChannelCreateActivity : AppCompatActivity(),
             createChannel(selectedUsers)
         }
     }
-
+// Function of creating the channel
     private fun createChannel(users: MutableList<String>) {
         val params = GroupChannelParams()
 
@@ -59,7 +59,7 @@ class ChannelCreateActivity : AppCompatActivity(),
             }
         }
     }
-
+// Function and logic for loading users
     private fun loadUsers() {
         val userListQuery = SendBird.createApplicationUserListQuery()
 

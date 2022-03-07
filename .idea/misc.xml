@@ -5,11 +5,11 @@
       <map>
         <entry key="app/src/main/res/layout/activity_channel_create.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_channel_list.xml" value="0.2" />
-        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/item_channel_chooser.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/item_chat_me.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/item_chat_me.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_chat_other.xml" value="0.13768115942028986" />
         <entry key="app/src/main/res/layout/item_create.xml" value="0.13768115942028986" />
       </map>
